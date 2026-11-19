@@ -1,7 +1,0 @@
-﻿id_herramienta,nombre,marca,tipo,fecha_compra,costo,estado,ubicacion,responsable,requiere_calibracion
-801,Escáner OBD2,Launch,Electronica,2022-05-01,8000,Bueno,Caja herramientas,Roberto,True
-802,Torquímetro,Truper,Manual,2021-03-15,1200,Excelente,Caja herramientas,Luis,True
-803,Gato hidráulico,Blackhawk,Hidraulica,2020-08-10,3500,Regular,Foso 1,Carlos,False
-804,Compresor aire,Truper,Neumatica,2019-11-20,15000,Bueno,Area compresor,Fernando,True
-805,Multimetro digital,Fluke,Electronica,2023-01-10,2500,Excelente,Mesa trabajo,Jorge,True
-806,Juego de dados,Stanley,Manual,2021-06-05,1800,Bueno,Caja herramientas,Miguel,False
